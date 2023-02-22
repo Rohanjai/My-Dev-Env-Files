@@ -20,15 +20,12 @@
 - XCode Command Line Tools
 - If working with typescript/javascript and the typescript language server like me. You might need to install node.
 
-If you're on mac, like me, you can install iTerm2, Neovim, Ripgrep and Node with homebrew.
+If you're on mac, install homebrew and the following.
 ```bash
 brew install --cask iterm2
 ```
 ```bash
 brew install neovim
-```
-```bash
-brew install ripgrep
 ```
 ```bash
 brew install node
